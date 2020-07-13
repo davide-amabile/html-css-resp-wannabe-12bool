@@ -12,6 +12,13 @@ img{
   text-align: center;
 }
 
+h2 {
+  text-align: center;
+  color: #808080;
+  margin: 20px 0;
+  text-transform: capitalize;
+}
+
 h3 {
   text-align: center;
   color: 	#0000ff;
